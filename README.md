@@ -9,7 +9,7 @@ Top Company CEO tweets Analysis- Sentiment analysis, topic modeling and driver a
 ## Motivation:
 
 The marketing strategies are shifting to social media platforms. CEOs like Elon Musk, depend highly on social networking platforms like twitter. In this project, I analyzed CEO tweet's sentiment, topic they usually tweet about, and tweet's impact on the company stock market. 
-For companies like Tesla, where the marketing is solely based on the social media platforms, we found out that CEO's tweets make a huge impact on the stock market. Soon other company CEOs should also adopt this platform for their markeint strategies. 
+For companies like Tesla, where the marketing is solely based on the social media platforms, we found out that CEO's tweets make a huge impact on the stock market. Soon other company CEOs should also adopt this platform for their marketing strategies. 
 So how can these tweets impact the stock market? How can these tweets be more influential?
 
 
